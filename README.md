@@ -5,7 +5,7 @@ To driver 4wd car by VIRobotics'AI Kit
 
 ### run in shell
 
-###在LX终端里运行
+### 在LX终端里运行
 
 ``` shell
 git clone https://github.com/aiblockly/4wd_plugin.git ```
