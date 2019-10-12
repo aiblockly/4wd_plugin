@@ -1,0 +1,1 @@
+rm -r /home/pi/obo_plugin/4wd_car
